@@ -1,0 +1,148 @@
+.first{
+    height: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    background: url(https://media.istockphoto.com/vectors/social-media-chalkboard-doodle-vector-illustration-vector-id1167356626?k=20&m=1167356626&s=612x612&w=0&h=vbHrePttChbaUU_-9nWJwW5tkDs5_s_oR8yAXVRjlhc=);
+    margin: auto;
+}
+
+.first h1{
+    background: black;
+    color: white;
+    padding: 10px 15px;
+    opacity: 0.8;
+
+}
+
+ul{
+    list-style-type:none ;
+}
+li{
+    float: left;
+    font-size: 20px;
+    padding-right: 70px;
+}
+.second{
+    background:url(https://img1.picmix.com/output/stamp/normal/7/1/8/3/1123817_ec41b.gif);
+    height: 12vh;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+
+}
+#start{
+    text-align: center;
+    font-family: "Vujahday Script";
+}
+#textbg{
+    width: 200px;
+    background: url(https://t4.ftcdn.net/jpg/02/89/72/69/360_F_289726988_cF9wzIATeSAOBxCg23NqnLeaKVfXWvdy.jpg);
+    color: white;
+}
+#big{
+    display: flex;
+    justify-content: space-around;
+}
+#video{
+    text-align: center;
+}
+#start1{
+    text-align: center;
+    font-size: 25px;
+}
+#start2{
+    text-align: center;
+    font-size: 15px;
+}
+#start3{
+     max-width: 600px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    font-size: 20px;
+    font-family: "Vujahday Script";
+}
+#start4{
+    text-align: center;
+}
+#card{
+    background: gray;
+    width: 200px;
+    box-shadow: 0px 0px 30px black;
+    
+}
+#card img{
+    width: 50%;
+    border-radius: 50%;
+    border: 3px solid black;
+    display: block;
+    margin: auto;
+}
+#bigcard{
+    display: flex;
+    justify-content: space-around;
+
+}
+#start5{
+    height: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    background: url(https://c.tenor.com/5K5_SlXFOAwAAAAC/slowly-moving.gif);
+    margin: auto;
+    color: red;
+    opacity: 0.8;
+    font-family: "Vujahday Script";
+    font-size:50px ;
+    
+}
+#card2{
+    width: 20%;
+    height: 30%;
+    box-shadow: 0px 0px 30px black;
+    text-align: center;
+}
+
+#card2 img{
+    width: 100%;
+}
+
+#card2 h1{
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+#card2:hover{
+    width: 19px;
+    transition: 1s ease;
+}
+#cardgroup{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top:20px ;
+}
+
+    #card4{
+        width: 16%;
+        height: 30%;
+        box-shadow: 0px 0px 30px black;
+        text-align: center;
+    }
+    
+    #card4 img{
+        width: 100%;
+    }
+    #card4 h1{
+        text-align: center;
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    #card4:hover{
+        width: 19px;
+        transition: 1s ease;
+    }
